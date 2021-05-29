@@ -21,6 +21,7 @@ __pycache__/
 *.so
 
 # directories
+lib/
 bin/
 lib64/
 venv/
